@@ -1,0 +1,16 @@
+.dial {
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    
+}
+.titlle {
+    background-color:yellow;
+    color: red;
+}
+.dial--content {
+    background-color: blue;
+    margin-top: -22px;
+    padding: 15px;
+    color: pink
+}
